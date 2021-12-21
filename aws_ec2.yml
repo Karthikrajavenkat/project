@@ -1,11 +1,11 @@
 ---
 plugin: aws_ec2
 
-aws_access_key: AKIAQZUPH4S7UILHJ5FK
-aws_secret_key: 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
+aws_access_key: access key
+aws_secret_key: scret key
 
 regions:
-  - ap-south-1
+  - us-west-2
 
 keyed_groups:
   - key: tags
